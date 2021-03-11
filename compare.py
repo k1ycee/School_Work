@@ -59,9 +59,37 @@ def factorial(n):
     if n == 0:
         return 1
     else:
-        for i in range(n):
-            facto = n * factorial(n-1)
+        facto = n * factorial(n-1)
         return facto
 
 
-print(factorial(5))
+def fibonacci(n):
+    if n == 0:
+        return 0;
+    elif n == 1:
+        return 1
+    else:
+        # print(n + "")
+        return fibonacci(n - 1) + fibonacci(n-2)
+
+
+
+# print(fibonacci(20))
+
+def b(z):
+    prod = a(z, z)
+    print(z, prod)
+    return prod
+def a(x, y):
+    x = x + 1
+    return x * y
+def c(x, y, z):
+    total = x + y + z
+    print(total)
+    square = b(total)**2
+    return square
+
+
+x = 1
+y = x + 1
+print(c(x, y+3, x+y))
