@@ -1,0 +1,13 @@
+{
+  "Teddy": ["dog",4,"male"],
+  "Elvis": ["dog",1,"male"],
+  "Sheyla": ["dog",5,"female"],
+  "Topic": ["hamster",3,"male"],
+  "Kuzya": ["cat",10,"male"],
+  "Misi": ["cat",8,"female"],
+  "Stanley": ["monkey",1, "male"]
+}
+
+
+sfysdkuviuj iudsv yuwvidbcjb iusvd khovdcuibl isdv cudkysuivcaoibkyhzvk kusdvkyvcyvduykahdyk
+shldjlvk jsduvolckdobicobi iuvsdkyv vilsdvu ilds ibli isb louh

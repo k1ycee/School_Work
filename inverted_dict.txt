@@ -1,0 +1,1 @@
+{'dog': ['Teddy', 'Elvis', 'Sheyla'], 4: ['Teddy'], 'male': ['Teddy', 'Elvis', 'Topic', 'Kuzya', 'Stanley'], 1: ['Elvis', 'Stanley'], 5: ['Sheyla'], 'female': ['Sheyla', 'Misi'], 'hamster': ['Topic'], 3: ['Topic'], 'cat': ['Kuzya', 'Misi'], 10: ['Kuzya'], 8: ['Misi'], 'monkey': ['Stanley']}
